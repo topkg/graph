@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="网格和材质的渲染" id="xnzxN-momgelOs1ODRZC">
-    <mxGraphModel dx="476" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="258" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,7 +75,7 @@
         <mxCell id="QsTrsV8T2DVDhqD8kG_y-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QsTrsV8T2DVDhqD8kG_y-15" target="QsTrsV8T2DVDhqD8kG_y-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QsTrsV8T2DVDhqD8kG_y-15" value="Mesh&lt;div&gt;顶点&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QsTrsV8T2DVDhqD8kG_y-15" value="Mesh&lt;div&gt;顶点&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="145" y="470" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QsTrsV8T2DVDhqD8kG_y-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QsTrsV8T2DVDhqD8kG_y-21" target="QsTrsV8T2DVDhqD8kG_y-22">
@@ -96,7 +96,7 @@
         <mxCell id="QsTrsV8T2DVDhqD8kG_y-23" value="像素片段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="530" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QsTrsV8T2DVDhqD8kG_y-26" value="Material" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QsTrsV8T2DVDhqD8kG_y-26" value="Material" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="385" y="470" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QsTrsV8T2DVDhqD8kG_y-27" value="像素&lt;div&gt;颜色/光照/纹理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
