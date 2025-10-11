@@ -440,6 +440,42 @@
         <mxCell id="gFYOw1LU0MhTbvp6jmgF-1" value="着色器/GPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="1020" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="gFYOw1LU0MhTbvp6jmgF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFYOw1LU0MhTbvp6jmgF-3" target="gFYOw1LU0MhTbvp6jmgF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFYOw1LU0MhTbvp6jmgF-3" value="gltf自定义属性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gFYOw1LU0MhTbvp6jmgF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFYOw1LU0MhTbvp6jmgF-4" target="gFYOw1LU0MhTbvp6jmgF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFYOw1LU0MhTbvp6jmgF-4" value="Mesh添加属性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gFYOw1LU0MhTbvp6jmgF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFYOw1LU0MhTbvp6jmgF-5" target="gFYOw1LU0MhTbvp6jmgF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFYOw1LU0MhTbvp6jmgF-5" value="Mesh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gFYOw1LU0MhTbvp6jmgF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFYOw1LU0MhTbvp6jmgF-6" target="gFYOw1LU0MhTbvp6jmgF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFYOw1LU0MhTbvp6jmgF-6" value="RenderMesh" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gFYOw1LU0MhTbvp6jmgF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gFYOw1LU0MhTbvp6jmgF-7" target="gFYOw1LU0MhTbvp6jmgF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gFYOw1LU0MhTbvp6jmgF-7" value="MeshPipeline&lt;div&gt;Mesh2dPipeline&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gFYOw1LU0MhTbvp6jmgF-8" value="着色器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gFYOw1LU0MhTbvp6jmgF-14" value="自定义属性如何传递" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CE47FF;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1340" width="170" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
