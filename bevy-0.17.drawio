@@ -374,16 +374,25 @@
           <mxGeometry x="890" y="415" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="62xuVRJjF2I77jdPcdaM-13" value="位置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="560" y="400" width="80" height="30" as="geometry" />
+          <mxGeometry x="560" y="400" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="62xuVRJjF2I77jdPcdaM-14" value="UV映射" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="560" y="440" width="80" height="30" as="geometry" />
+          <mxGeometry x="560" y="428" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="62xuVRJjF2I77jdPcdaM-15" value="法线" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="560" y="480" width="80" height="30" as="geometry" />
+        <mxCell id="62xuVRJjF2I77jdPcdaM-15" value="法线/切线" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="560" y="485" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="62xuVRJjF2I77jdPcdaM-16" value="三角形索引" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="560" y="520" width="80" height="30" as="geometry" />
+          <mxGeometry x="560" y="457" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="62xuVRJjF2I77jdPcdaM-17" value="着色" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="560" y="513" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="62xuVRJjF2I77jdPcdaM-18" value="权重" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="560" y="542" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="62xuVRJjF2I77jdPcdaM-19" value="自定义属性" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="560" y="570" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
