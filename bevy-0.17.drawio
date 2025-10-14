@@ -497,7 +497,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Q4-mbLd20Hcdr9frYPE1" name="复古像素风">
-    <mxGraphModel dx="914" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="914" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -685,6 +685,12 @@
         </mxCell>
         <mxCell id="QfObypokaSsTwh93GpzD-9" value="清晰度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1095" y="275" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QfObypokaSsTwh93GpzD-33" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="360" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QfObypokaSsTwh93GpzD-34" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="360" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
