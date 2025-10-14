@@ -497,7 +497,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Q4-mbLd20Hcdr9frYPE1" name="复古像素风">
-    <mxGraphModel dx="914" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="400" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -631,7 +631,7 @@
             <mxPoint x="4" y="45" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QfObypokaSsTwh93GpzD-12" value="sprite" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="QfObypokaSsTwh93GpzD-12" value="sprite&lt;div&gt;rtt&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="990" y="375" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QfObypokaSsTwh93GpzD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeColor=#6C8EBF;" edge="1" parent="1" source="QfObypokaSsTwh93GpzD-13" target="QfObypokaSsTwh93GpzD-2">
@@ -678,7 +678,7 @@
             <mxPoint x="1390" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QfObypokaSsTwh93GpzD-20" value="整数坐标平移&lt;div&gt;有限旋转&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QfObypokaSsTwh93GpzD-19">
+        <mxCell id="QfObypokaSsTwh93GpzD-20" value="整数坐标平移&lt;div&gt;有限旋转(rtt)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QfObypokaSsTwh93GpzD-19">
           <mxGeometry x="-0.0269" relative="1" as="geometry">
             <mxPoint x="45" y="-1" as="offset" />
           </mxGeometry>
@@ -687,9 +687,9 @@
           <mxGeometry x="1095" y="275" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QfObypokaSsTwh93GpzD-33" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="360" width="160" height="40" as="geometry" />
+          <mxGeometry x="1440" y="520" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QfObypokaSsTwh93GpzD-34" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="QfObypokaSsTwh93GpzD-34" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;rotation=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="360" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
