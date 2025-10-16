@@ -936,8 +936,8 @@
             <mxPoint x="66" y="-26" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ck1gkDhIMByQ6JTh1Wwy-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;如何判断夹角大小&lt;/h1&gt;&lt;p&gt;- 使用场景：转向，旋转自身朝向 -&amp;gt; 朝向指定目标&lt;/p&gt;&lt;p&gt;- 数学表示：向量点积(投影)，三角函数cos/acos&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="60" width="290" height="120" as="geometry" />
+        <mxCell id="Ck1gkDhIMByQ6JTh1Wwy-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;如何判断夹角大小&lt;/h1&gt;&lt;p&gt;- 使用场景：转向，旋转自身朝向 -&amp;gt; 朝向指定目标&lt;/p&gt;&lt;p&gt;- 数学表示：向量点积(投影,相似性)，三角函数cos/acos&lt;/p&gt;&lt;p&gt;点积 dot = a x b x cos&amp;nbsp; &amp;nbsp; 叉积 cross = a x b x sin&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;tan = cross/dot&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="60" width="350" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Ck1gkDhIMByQ6JTh1Wwy-3" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF3333;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
