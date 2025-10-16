@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.6" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.7" pages="7">
   <diagram name="网格和材质的渲染" id="xnzxN-momgelOs1ODRZC">
     <mxGraphModel dx="571" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -913,6 +913,69 @@
         </mxCell>
         <mxCell id="3Isz4eD0cGKzQO3ojk9g-87" value="RemoteLast" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="717" y="760" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jX3adGB4hXy4u2PiKIws" name="数学-方向">
+    <mxGraphModel dx="400" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ck1gkDhIMByQ6JTh1Wwy-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="310" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ck1gkDhIMByQ6JTh1Wwy-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="320" as="sourcePoint" />
+            <mxPoint x="350" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ck1gkDhIMByQ6JTh1Wwy-5" value="x1,y1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ck1gkDhIMByQ6JTh1Wwy-1">
+          <mxGeometry x="-0.057" relative="1" as="geometry">
+            <mxPoint x="66" y="-26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ck1gkDhIMByQ6JTh1Wwy-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;如何判断夹角大小&lt;/h1&gt;&lt;p&gt;- 使用场景：转向，旋转自身朝向 -&amp;gt; 朝向指定目标&lt;/p&gt;&lt;p&gt;- 数学表示：向量点积(投影)，三角函数cos/acos&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="60" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ck1gkDhIMByQ6JTh1Wwy-3" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF3333;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="320" as="sourcePoint" />
+            <mxPoint x="280" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ck1gkDhIMByQ6JTh1Wwy-6" value="x2,y2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ck1gkDhIMByQ6JTh1Wwy-3">
+          <mxGeometry x="0.339" relative="1" as="geometry">
+            <mxPoint x="-27" y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ck1gkDhIMByQ6JTh1Wwy-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="290" as="sourcePoint" />
+            <mxPoint x="350" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ck1gkDhIMByQ6JTh1Wwy-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="320" as="sourcePoint" />
+            <mxPoint x="360" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ck1gkDhIMByQ6JTh1Wwy-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#FF33FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="300" as="sourcePoint" />
+            <mxPoint x="350" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ck1gkDhIMByQ6JTh1Wwy-10" value="右手坐标系&lt;div&gt;https://bevy-cheatbook.github.io/fundamentals/coords.html&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;方向投影 cos&lt;/div&gt;&lt;div&gt;https://phet.colorado.edu/sims/html/trig-tour/latest/trig-tour_all.html?locale=zh_CN&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="420" width="340" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Ck1gkDhIMByQ6JTh1Wwy-11" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF3333;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="320" as="sourcePoint" />
+            <mxPoint x="320" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
