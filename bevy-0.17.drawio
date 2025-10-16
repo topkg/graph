@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.7" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.7" pages="8">
   <diagram name="网格和材质的渲染" id="xnzxN-momgelOs1ODRZC">
     <mxGraphModel dx="571" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -982,6 +982,91 @@
             <mxPoint x="235" y="340" as="sourcePoint" />
             <mxPoint x="425" y="280" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2je6N1JEQwrDiX8gFCEY" name="精灵的图像拉伸模式">
+    <mxGraphModel dx="538" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p2QF_4CCsnTCaP0pd_Sa-7" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="p2QF_4CCsnTCaP0pd_Sa-24" target="p2QF_4CCsnTCaP0pd_Sa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2QF_4CCsnTCaP0pd_Sa-8" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="p2QF_4CCsnTCaP0pd_Sa-1" target="p2QF_4CCsnTCaP0pd_Sa-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2QF_4CCsnTCaP0pd_Sa-9" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="p2QF_4CCsnTCaP0pd_Sa-1" target="p2QF_4CCsnTCaP0pd_Sa-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2QF_4CCsnTCaP0pd_Sa-27" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="p2QF_4CCsnTCaP0pd_Sa-1" target="p2QF_4CCsnTCaP0pd_Sa-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2QF_4CCsnTCaP0pd_Sa-1" value="精灵图像模式" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p2QF_4CCsnTCaP0pd_Sa-2" value="&lt;h3 style=&quot;box-sizing: border-box; scrollbar-width: initial; scrollbar-color: rgba(36, 37, 39, 0.6) rgb(217, 217, 217); font-size: 1.125rem; margin: 0px; padding: 0px; font-family: &amp;quot;Fira Mono&amp;quot;, monospace; white-space-collapse: preserve; text-align: left; background-color: rgb(255, 255, 255);&quot; class=&quot;code-header&quot;&gt;Auto&lt;/h3&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Fira Sans&amp;quot;, sans-serif; font-size: 11px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;精灵将采用图像的大小&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="300" y="340" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p2QF_4CCsnTCaP0pd_Sa-3" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="p2QF_4CCsnTCaP0pd_Sa-2" parent="1" source="p2QF_4CCsnTCaP0pd_Sa-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="394" y="542" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p2QF_4CCsnTCaP0pd_Sa-18" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="p2QF_4CCsnTCaP0pd_Sa-25" target="p2QF_4CCsnTCaP0pd_Sa-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2QF_4CCsnTCaP0pd_Sa-19" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="p2QF_4CCsnTCaP0pd_Sa-25" target="p2QF_4CCsnTCaP0pd_Sa-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2QF_4CCsnTCaP0pd_Sa-20" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="p2QF_4CCsnTCaP0pd_Sa-25" target="p2QF_4CCsnTCaP0pd_Sa-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2QF_4CCsnTCaP0pd_Sa-21" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="p2QF_4CCsnTCaP0pd_Sa-4" target="p2QF_4CCsnTCaP0pd_Sa-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2QF_4CCsnTCaP0pd_Sa-22" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="p2QF_4CCsnTCaP0pd_Sa-4" target="p2QF_4CCsnTCaP0pd_Sa-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2QF_4CCsnTCaP0pd_Sa-23" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="p2QF_4CCsnTCaP0pd_Sa-4" target="p2QF_4CCsnTCaP0pd_Sa-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2QF_4CCsnTCaP0pd_Sa-4" value="&lt;h3 style=&quot;box-sizing: border-box; scrollbar-width: initial; scrollbar-color: rgba(36, 37, 39, 0.6) rgb(217, 217, 217); font-size: 1.125rem; margin: 0px; padding: 0px; font-family: &amp;quot;Fira Mono&amp;quot;, monospace; white-space-collapse: preserve; text-align: left; background-color: rgb(255, 255, 255);&quot; class=&quot;code-header&quot;&gt;等比缩放&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="480" y="560" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p2QF_4CCsnTCaP0pd_Sa-5" value="&lt;h3 style=&quot;box-sizing: border-box; scrollbar-width: initial; scrollbar-color: rgba(36, 37, 39, 0.6) rgb(217, 217, 217); font-size: 1.125rem; margin: 0px; padding: 0px; font-family: &amp;quot;Fira Mono&amp;quot;, monospace; white-space-collapse: preserve; text-align: left; background-color: rgb(255, 255, 255);&quot; class=&quot;code-header&quot;&gt;Tiled&lt;/h3&gt;&lt;div&gt;瓦片&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="300" y="585" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p2QF_4CCsnTCaP0pd_Sa-6" value="&lt;h3 style=&quot;box-sizing: border-box; scrollbar-width: initial; scrollbar-color: rgba(36, 37, 39, 0.6) rgb(217, 217, 217); margin: 0px; padding: 0px; text-align: left; background-color: rgb(255, 255, 255);&quot; class=&quot;code-header&quot;&gt;&lt;font face=&quot;Fira Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 12.375px; white-space-collapse: preserve;&quot;&gt;Sliced&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;&lt;div&gt;&lt;font face=&quot;Fira Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 12.375px; white-space-collapse: preserve;&quot;&gt;九宫格&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="300" y="510" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p2QF_4CCsnTCaP0pd_Sa-11" value="&lt;h3 style=&quot;box-sizing: border-box; scrollbar-width: initial; scrollbar-color: rgba(36, 37, 39, 0.6) rgb(217, 217, 217); font-size: 1.125rem; margin: 0px; padding: 0px; font-family: &amp;quot;Fira Mono&amp;quot;, monospace; white-space-collapse: preserve; text-align: left; background-color: rgb(255, 255, 255);&quot; class=&quot;code-header&quot;&gt;FillCenter&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="660" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p2QF_4CCsnTCaP0pd_Sa-12" value="&lt;h3 style=&quot;box-sizing: border-box; scrollbar-width: initial; scrollbar-color: rgba(36, 37, 39, 0.6) rgb(217, 217, 217); font-size: 1.125rem; margin: 0px; padding: 0px; font-family: &amp;quot;Fira Mono&amp;quot;, monospace; white-space-collapse: preserve; text-align: left; background-color: rgb(255, 255, 255);&quot; class=&quot;code-header&quot;&gt;FillStart&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="660" y="370" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p2QF_4CCsnTCaP0pd_Sa-13" value="&lt;h3 style=&quot;box-sizing: border-box; scrollbar-width: initial; scrollbar-color: rgba(36, 37, 39, 0.6) rgb(217, 217, 217); font-size: 1.125rem; margin: 0px; padding: 0px; font-family: &amp;quot;Fira Mono&amp;quot;, monospace; white-space-collapse: preserve; text-align: left; background-color: rgb(255, 255, 255);&quot; class=&quot;code-header&quot;&gt;FillEnd&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="660" y="420" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p2QF_4CCsnTCaP0pd_Sa-14" value="&lt;h3 style=&quot;box-sizing: border-box; scrollbar-width: initial; scrollbar-color: rgba(36, 37, 39, 0.6) rgb(217, 217, 217); font-size: 1.125rem; margin: 0px; padding: 0px; font-family: &amp;quot;Fira Mono&amp;quot;, monospace; white-space-collapse: preserve; text-align: left; background-color: rgb(255, 255, 255);&quot; class=&quot;code-header&quot;&gt;FitCenter&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="660" y="510" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p2QF_4CCsnTCaP0pd_Sa-15" value="&lt;h3 style=&quot;box-sizing: border-box; scrollbar-width: initial; scrollbar-color: rgba(36, 37, 39, 0.6) rgb(217, 217, 217); font-size: 1.125rem; margin: 0px; padding: 0px; font-family: &amp;quot;Fira Mono&amp;quot;, monospace; white-space-collapse: preserve; text-align: left; background-color: rgb(255, 255, 255);&quot; class=&quot;code-header&quot;&gt;FitStart&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="660" y="560" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p2QF_4CCsnTCaP0pd_Sa-16" value="&lt;h3 style=&quot;box-sizing: border-box; scrollbar-width: initial; scrollbar-color: rgba(36, 37, 39, 0.6) rgb(217, 217, 217); font-size: 1.125rem; margin: 0px; padding: 0px; font-family: &amp;quot;Fira Mono&amp;quot;, monospace; white-space-collapse: preserve; text-align: left; background-color: rgb(255, 255, 255);&quot; class=&quot;code-header&quot;&gt;FitEnd&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="660" y="610" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p2QF_4CCsnTCaP0pd_Sa-26" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="p2QF_4CCsnTCaP0pd_Sa-24" target="p2QF_4CCsnTCaP0pd_Sa-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2QF_4CCsnTCaP0pd_Sa-24" value="&lt;h3 style=&quot;box-sizing: border-box; scrollbar-width: initial; scrollbar-color: rgba(36, 37, 39, 0.6) rgb(217, 217, 217); font-size: 1.125rem; margin: 0px; padding: 0px; font-family: &amp;quot;Fira Mono&amp;quot;, monospace; white-space-collapse: preserve; text-align: left; background-color: rgb(255, 255, 255);&quot; class=&quot;code-header&quot;&gt;Scale&lt;/h3&gt;&lt;div&gt;缩放&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="305" y="430" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p2QF_4CCsnTCaP0pd_Sa-25" value="&lt;h3 style=&quot;box-sizing: border-box; scrollbar-width: initial; scrollbar-color: rgba(36, 37, 39, 0.6) rgb(217, 217, 217); font-size: 1.125rem; margin: 0px; padding: 0px; font-family: &amp;quot;Fira Mono&amp;quot;, monospace; white-space-collapse: preserve; text-align: left; background-color: rgb(255, 255, 255);&quot; class=&quot;code-header&quot;&gt;自定义比例缩放&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="480" y="370" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
