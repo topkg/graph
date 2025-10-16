@@ -918,7 +918,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jX3adGB4hXy4u2PiKIws" name="数学-方向">
-    <mxGraphModel dx="400" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="400" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -975,6 +975,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="320" as="sourcePoint" />
             <mxPoint x="320" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ck1gkDhIMByQ6JTh1Wwy-14" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF00C0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="235" y="340" as="sourcePoint" />
+            <mxPoint x="425" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
