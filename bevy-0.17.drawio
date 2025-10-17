@@ -987,7 +987,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2je6N1JEQwrDiX8gFCEY" name="精灵的图像拉伸模式">
-    <mxGraphModel dx="773" dy="2647" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="571" dy="899" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1164,11 +1164,11 @@
             <mxPoint x="760" y="1380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GsxZPHMVB35U-CcIAfpk-2" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;填满/图片有裁剪&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="-10" width="330" height="30" as="geometry" />
+        <mxCell id="GsxZPHMVB35U-CcIAfpk-2" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;填满/图片有裁剪&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="490" y="70" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GsxZPHMVB35U-CcIAfpk-3" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;留白/图片不裁剪&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="980" width="330" height="30" as="geometry" />
+        <mxCell id="GsxZPHMVB35U-CcIAfpk-3" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;留白/图片不裁剪&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="930" width="330" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
