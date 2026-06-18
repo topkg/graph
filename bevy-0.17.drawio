@@ -1347,10 +1347,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GQr5kDhAeRqXRMWjv0Qt" name="bsn">
-    <mxGraphModel dx="1299" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1569" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YYOIlW6xvvZAc4o5QTTP-48" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;V0.19&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;1. Sence&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;2. ECS化&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;3. SIMD优化&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="220" width="180" x="90" y="120" as="geometry" />
+        </mxCell>
         <mxCell id="YYOIlW6xvvZAc4o5QTTP-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" value="EC组织结构" vertex="1">
           <mxGeometry height="150" width="200" x="590" y="80" as="geometry" />
         </mxCell>
@@ -1517,9 +1520,6 @@
             <mxPoint x="600" y="650" as="sourcePoint" />
             <mxPoint x="740" y="870" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="YYOIlW6xvvZAc4o5QTTP-48" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;V0.19&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;1. Sence&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;2. ECS化&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;3. SIMD优化&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="220" width="180" x="90" y="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
